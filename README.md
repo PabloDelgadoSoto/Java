@@ -1,0 +1,3 @@
+Ejercicios en Java realizados durante mi primer año cursado en 2022-2023
+Puede que haya algún problema con commits o que el control de versiones sea muy pobre porque utilizaba otra cuenta de github, esta cuenta usa el correo electrónico otorgado por el centro el cual fue eliminado poco después.
+Puedes ver mi otra cuenta de github [aqui](https://github.com/pablo-tiernoparla), aunque está inactiva y no subiré nada ahí. Si se puede ver, el control de versiones de estos apartados está mucho mejor.
